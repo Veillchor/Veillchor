@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Veillchor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veillchor&show_icons=true&include_all_commits=true&theme=radical)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Veillchor.Veillchor&left_color=green&right_color=red)
